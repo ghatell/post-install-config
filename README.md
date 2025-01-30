@@ -3,7 +3,7 @@
 </p>
 
 <h1>osTicket - Post-Install Configuration</h1>
-This project demonstrates the configuration of key features in osTicket to optimize its functionality as a helpdesk solution.<br />
+This project demonstrates the configuration of key features in osTicket, including ticket workflows, email integration, user roles, and automation, to optimize its functionality as an efficient and scalable helpdesk solution for IT support teams. <br />
 
 <h2>Environments and Technologies Used</h2>
 
